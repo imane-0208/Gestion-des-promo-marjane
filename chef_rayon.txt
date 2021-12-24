@@ -1,0 +1,2 @@
+==> chef de rayon a changer le status de la promo de l'id :2 on accepte 
+==> chef de rayon a changer le status de la promo de l'id :2 on laaa27 à 15h==> chef de rayon a changer le status de la promo de l'id :1 on refusé à 16h 
